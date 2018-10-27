@@ -1,0 +1,30 @@
+<html>
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127303594-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127303594-1');
+</script>
+
+</head>
+<title>
+Hakkýmda
+</title>
+<body background="bg.jpg">
+<center><img src="me.jpg" width="20%">
+<hr>
+
+<p>Ýsmim Mert Saðýr, 19 yaþýndayým. Trabzonluyum. 2017 yýlýnda Tülay Baþaran Anadolu Lisesinden mezun oldum.<br>2018 yýlýnda Gazi Üniversitesine baþladým.</p>
+<hr>
+<hr></center>
+</body>
+
+
+
+
+</html>

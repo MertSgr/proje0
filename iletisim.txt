@@ -1,0 +1,47 @@
+<html>
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127303594-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127303594-1');
+</script>
+
+</head>
+<title>
+iletisim
+</title>
+<body background="bg.jpg">
+<center><img src="me.jpg" width="20%">
+<hr>
+
+<h1>Ýletiþim</h1>
+<hr>
+<p>E-posta: sgrmert@gmail.com<br>Adres: Rasathane Mah. Kore Sk.
+<br>
+<iframe src="https://www.google.com/maps/d/embed?mid=1eOyLV0gAddicmAYdQxBjlWtJJMo6hkBp" width="640" height="480"></iframe>
+</p>
+<hr></center>
+<a href="http://www.facebook.com"> <img src="fb.jpg" width = 50 height = 50></a>
+<a href="http://www.instagram.com"> <img src="ins.jpg" width = 50 height = 50></a>
+<a href="http://www.twitter.com"> <img src="tw.jpg" width = 50 height = 50></a>
+<a href="http://www.pinterest.com"> <img src="pin.jpg" width = 50 height = 50></a>
+<a href="http://www.linkedin.com"> <img src="in.jpg" width = 50 height = 50></a>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
